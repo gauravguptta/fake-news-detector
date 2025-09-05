@@ -18,7 +18,7 @@ Ready for integration with FastAPI / Streamlit for deployment.
 *Setup Instructions*
 
 *1. Clone the repository*
-git clone <your-repo-url>
+git clone <https://github.com/gauravguptta/fake-news-detector>
 cd fake-news-detector
 
 *2. Create & activate a virtual environment*
