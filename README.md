@@ -5,15 +5,11 @@ The implementation covers preprocessing, model training, evaluation, and deploym
 
 *Features*
 
-Train baseline models using TF-IDF features + Logistic Regression
-
-Evaluate model performance with accuracy, confusion matrix, and classification report
-
-Save trained model and vectorizer for later use
-
-Extendable to more advanced models (SVM, Naive Bayes, XGBoost, etc.)
-
-Ready for integration with FastAPI / Streamlit for deployment.
+-Train baseline models using TF-IDF features + Logistic Regression
+-Evaluate model performance with accuracy, confusion matrix, and classification report
+-Save trained model and vectorizer for later use
+-Extendable to more advanced models (SVM, Naive Bayes, XGBoost, etc.)
+-Ready for integration with FastAPI / Streamlit for deployment.
 
 *Setup Instructions*
 
